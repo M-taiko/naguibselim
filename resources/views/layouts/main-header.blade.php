@@ -12,14 +12,14 @@
 							<a class="open-toggle" href="#"><i class="header-icon fe fe-align-left" ></i></a>
 							<a class="close-toggle" href="#"><i class="header-icons fe fe-x"></i></a>
 						</div>
-						<div class="main-header-center mr-3 d-sm-none d-md-none d-lg-block">
+						{{-- <div class="main-header-center mr-3 d-sm-none d-md-none d-lg-block">
 							<input class="form-control" placeholder="Search for anything..." type="search"> <button class="btn"><i class="fas fa-search d-none d-md-block"></i></button>
-						</div>
+						</div> --}}
 					</div>
 					<div class="main-header-right">
 						
 						<div class="nav nav-item  navbar-nav-right ml-auto">
-							<div class="nav-link" id="bs-example-navbar-collapse-1">
+							{{-- <div class="nav-link" id="bs-example-navbar-collapse-1">
 								<form class="navbar-form" role="search">
 									<div class="input-group">
 										<input type="text" class="form-control" placeholder="Search">
@@ -33,9 +33,9 @@
 										</span>
 									</div>
 								</form>
-							</div>
+							</div> --}}
 							
-							<div class="dropdown nav-item main-header-notification">
+							{{-- <div class="dropdown nav-item main-header-notification">
 								<a class="new nav-link" href="#">
 								<svg xmlns="http://www.w3.org/2000/svg" class="header-icon-svgs" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-bell"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"></path><path d="M13.73 21a2 2 0 0 1-3.46 0"></path></svg><span class=" pulse"></span></a>
 								<div class="dropdown-menu">
@@ -124,7 +124,7 @@
 										<a href="">VIEW ALL</a>
 									</div>
 								</div>
-							</div>
+							</div> --}}
 							<div class="nav-item full-screen fullscreen-button">
 								<a class="new nav-link full-screen-link" href="#"><svg xmlns="http://www.w3.org/2000/svg" class="header-icon-svgs" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-maximize"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg></a>
 							</div>
@@ -152,11 +152,11 @@
                                      </form>
 								</div>
 							</div>
-							<div class="dropdown main-header-message right-toggle">
+							{{-- <div class="dropdown main-header-message right-toggle">
 								<a class="nav-link pr-0" data-toggle="sidebar-left" data-target=".sidebar-left">
 									<svg xmlns="http://www.w3.org/2000/svg" class="header-icon-svgs" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
 								</a>
-							</div>
+							</div> --}}
 						</div>
 					</div>
 				</div>
